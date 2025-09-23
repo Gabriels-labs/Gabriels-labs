@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Willkommen bei gabriels-labs
 
-<!--
-**Gabriels-labs/Gabriels-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+- Fachinformatiker für Systemintegration (Umschulung, 2025–2027, GFN GmbH)  
+- Fokus: Netzwerke, Server, Cloud (Azure), IT-Security  
+- Interesse: Prozessorganisation, Automatisierung, Infrastruktur  
 
-Here are some ideas to get you started:
+## 📚 Lernfelder
+- **LF01** – Rolle im Betrieb  
+- **LF02** – IT-Arbeitsplätze ausstatten  
+- **LF03** – Netzwerke & Clients  
+- **LF04** – IT-Sicherheit / Grundschutz  
+- **LF05** – Software & Datenverwaltung  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Jede Lernfeld-Dokumentation + Übungen → in einem eigenen Repository.  
+
+## 🔧 Skills (im Aufbau)
+- Netzwerke (Cisco Packet Tracer, VLAN, Subnetting)  
+- Server & Virtualisierung (Windows Server, Hyper-V, VirtualBox)  
+- Datenbanken (SQL Basics)  
+- Cloud (Microsoft Azure, AZ-104 Vorbereitung)  
+
+## 📫 Kontakt
+- 📧 [noreply Mail von GitHub oder eigene]  
+- 🔗 LinkedIn (folgt bald)
