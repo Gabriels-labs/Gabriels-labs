@@ -22,5 +22,5 @@
 - Cloud (Microsoft Azure, AZ-104 Vorbereitung)  
 
 ## 📫 Kontakt
-- 📧 [noreply Mail von GitHub oder eigene]  
+- 📧 serg7gabriel@gmail.com
 - 🔗 LinkedIn (folgt bald)
