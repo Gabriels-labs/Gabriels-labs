@@ -3,7 +3,8 @@
 ## Über mich
 - Fachinformatiker für Systemintegration (Umschulung, 2025–2027, GFN GmbH)  
 - Fokus: Netzwerke, Server, Cloud (Azure), IT-Security  
-- Interesse: Prozessorganisation, Automatisierung, Infrastruktur  
+- Interesse: Prozessorganisation, Automatisierung, Infrastruktur, Cloud und Virtualisierung, C#-Programmierung
+- Arbeitserfahrung: Installation und Einrichtung von Windows-Systemen und Peripheriegeräten. Fehleranalyse und Wartung von PC-Hardware
 
 ## 📚 Lernfelder
 - **LF01** – Rolle im Betrieb  
@@ -19,7 +20,9 @@
 - Netzwerke (Cisco Packet Tracer, VLAN, Subnetting)  
 - Server & Virtualisierung (Windows Server, Hyper-V, VirtualBox)  
 - Datenbanken (SQL Basics)  
-- Cloud (Microsoft Azure, AZ-104 Vorbereitung)  
+- Cloud (Microsoft Azure, AZ-104 Vorbereitung)
+- PowerShell- und Python-Skripte
+- Client-Systeme (Windows 10/11)
 
 ## 📫 Kontakt
 - 📧 serg7gabriel@gmail.com
