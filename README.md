@@ -10,7 +10,8 @@
 - **LF02** – IT-Arbeitsplätze ausstatten  
 - **LF03** – Netzwerke & Clients  
 - **LF04** – IT-Sicherheit / Grundschutz  
-- **LF05** – Software & Datenverwaltung  
+- **LF05** – Software & Datenverwaltung
+- **LF06-LF09 ------> LOADING**
 
 👉 Jede Lernfeld-Dokumentation + Übungen → in einem eigenen Repository.  
 
