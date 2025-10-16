@@ -26,4 +26,4 @@
 
 ## 📫 Kontakt
 - 📧 serg7gabriel@gmail.com
-- 🔗 <a href="www.linkedin.com/in/sergey-gabriel-84b8a438a" target="_blank">LinkedIn</a>
+- 🔗 <a href="https://www.linkedin.com/in/sergey-gabriel-84b8a438a" target="_blank">LinkedIn</a>
