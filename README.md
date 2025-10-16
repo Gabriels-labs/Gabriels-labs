@@ -23,6 +23,7 @@
 - Cloud (Microsoft Azure, AZ-104 Vorbereitung)
 - PowerShell- und Python-Skripte
 - Client-Systeme (Windows 10/11)
+- C# Programmierung
 
 ## 📫 Kontakt
 - 📧 serg7gabriel@gmail.com
