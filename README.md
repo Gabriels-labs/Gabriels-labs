@@ -17,12 +17,12 @@
 👉 Jede Lernfeld-Dokumentation + Übungen → in einem eigenen Repository.  
 
 ## 🔧 Skills (im Aufbau)
-- Netzwerke (Cisco Packet Tracer, VLAN, Subnetting)  
-- Server & Virtualisierung (Windows Server, Hyper-V, VirtualBox)  
-- Datenbanken (SQL Basics)  
-- Cloud (Microsoft Azure, AZ-104 Vorbereitung)
-- PowerShell- und Python-Skripte
 - Client-Systeme (Windows 10/11)
+- Netzwerke (Cisco Packet Tracer, VLAN, Subnetting)  
+- Server & Virtualisierung (Windows Server, Hyper-V, VirtualBox)
+- Cloud (Microsoft Azure, AZ-104 Vorbereitung)  
+- Datenbanken (SQL Basics)  
+- PowerShell- und Python-Skripte
 - C# Programmierung
 
 ## 📫 Kontakt
