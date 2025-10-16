@@ -2,7 +2,7 @@
 
 ## Über mich
 - Fachinformatiker für Systemintegration (Umschulung, 2025–2027, GFN GmbH)  
-- Fokus: Netzwerke, Server, Cloud (Azure), IT-Security  
+- Fokus: Netzwerke, Server, Virtualisierung, Cloud (Azure), IT-Security 
 - Interesse: Prozessorganisation, Automatisierung, Infrastruktur, Cloud und Virtualisierung, C#-Programmierung
 - Arbeitserfahrung: Installation und Einrichtung von Windows-Systemen und Peripheriegeräten. Fehleranalyse und Wartung von PC-Hardware
 
@@ -26,4 +26,4 @@
 
 ## 📫 Kontakt
 - 📧 serg7gabriel@gmail.com
-- 🔗 LinkedIn (folgt bald)
+- 🔗 [LinkedIn](www.linkedin.com/in/sergey-gabriel-84b8a438a)
