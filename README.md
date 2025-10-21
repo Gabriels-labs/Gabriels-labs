@@ -18,12 +18,12 @@
 
 ## 🔧 Skills (im Aufbau)
 - Client-Systeme (Windows 10/11)
+- Linux- und Unix-Systeme
 - Netzwerke (Cisco Packet Tracer, VLAN, Subnetting)  
 - Server & Virtualisierung (Windows Server, Hyper-V, VirtualBox)
-- Cloud (Microsoft Azure, AZ-104 Vorbereitung)  
-- Datenbanken (SQL Basics)  
-- PowerShell- und Python-Skripte
-- C# Programmierung
+- Cloud (Microsoft Azure AZ-104 Vorbereitung)  
+- Datenbanken (PostrgeSQL)
+- PowerShell-, Bash- und Python-Skripte
 
 ## 📫 Kontakt
 - 📧 serg7gabriel@gmail.com
