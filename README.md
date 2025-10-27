@@ -24,7 +24,3 @@
 - Cloud (Microsoft Azure AZ-104 Vorbereitung)  
 - Datenbanken (PostrgeSQL)
 - PowerShell-, Bash- und Python-Skripte
-
-## 📫 Kontakt
-- 📧 serg7gabriel@gmail.com
-- 🔗 <a href="https://www.linkedin.com/in/sergey-gabriel-84b8a438a" target="_blank">LinkedIn</a>
