@@ -25,5 +25,5 @@
 - Netzwerke (Cisco Packet Tracer, VLAN, Subnetting)  
 - Server & Virtualisierung (Windows Server, Hyper-V, VirtualBox)
 - Cloud (Microsoft Azure AZ-104 Vorbereitung)  
-- Datenbanken (PostrgeSQL)
+- SQL-Datenbanken
 - PowerShell-, Bash- und Python-Skripte
