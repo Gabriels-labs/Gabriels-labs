@@ -32,6 +32,9 @@
 
 ---
 
+
+
+
 ## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) noch nicht begonnen)
 
 ### Systemadministration
