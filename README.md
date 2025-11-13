@@ -3,7 +3,7 @@
 ## Über mich
 - Fachinformatiker für Systemintegration (Umschulung, 2025–2027, GFN GmbH)  
 - Fokus: Netzwerke, Server, Virtualisierung, Cloud
-- Interesse: Prozessorganisation, Automatisierung, Infrastruktur, DevOps
+- Interesse: IT-Infrastruktur, Systemintegration, Automatisierung, Cloud & DevOps, Softwareentwicklung (C#/.NET)
 - Arbeitserfahrung: Installation und Einrichtung von Windows-Systemen und Peripheriegeräten. Fehleranalyse und Wartung von PC-Hardware
 
 ## 📚 Lernfelder
