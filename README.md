@@ -1,42 +1,41 @@
 # 👋 Willkommen bei **gabriels-labs**
 
-## Über mich
+---
 
-### 🎓 Bildung  
-**Fachinformatiker für Systemintegration**  
-(Umschulung, 06/2025–06/2027, GFN GmbH)  
-**Fokus:** Netzwerke, Server, Virtualisierung, Cloud (Azure)
-
-🔗 [Zum Repository „Lernfelder FiSi“](./Lernfelder)
+## 🎓 Bildung  
+> **Fachinformatiker für Systemintegration**  
+> Umschulung (06/2025–06/2027) · GFN GmbH  
+> **Fokus:** Netzwerke · Server · Virtualisierung · Azure  
+>
+> 🔗 [Lernfelder FiSi ansehen](./Lernfelder)
 
 ---
 
-### 🚀 Weiterbildung  
-**Junior DevOps-Engineer**  
-(Online-Kurse, 10/2025–05/2026, TeachMeSkills – Online-Bildungsanbieter)  
-**Fokus:** Linux, Containerisierung, Cloud (GCP, AWS)
-
-🔗 [Zum Repository „DevOps“](./DevOps)
-
----
-
-### 💡 Interesse  
-IT-Infrastruktur · Systemintegration · Automatisierung ·  
-Cloud & DevOps · Softwareentwicklung (C#/.NET)
+## 🚀 Weiterbildung  
+> **Junior DevOps-Engineer**  
+> Online-Kurse (10/2025–05/2026) · TeachMeSkills  
+> **Fokus:** Linux · Containerisierung · GCP · AWS  
+>
+> 🔗 [DevOps-Repository ansehen](./DevOps)
 
 ---
 
-### 🛠️ Arbeitserfahrung  
-Installation und Einrichtung von Windows-Systemen und Peripheriegeräten  
-Fehleranalyse und Wartung von PC-Hardware
+## 💡 Interesse  
+> IT-Infrastruktur · Systemintegration · Automatisierung  
+> Cloud & DevOps · Softwareentwicklung (C#/.NET)
+
+---
+
+## 🛠️ Arbeitserfahrung  
+> Installation & Einrichtung von Windows-Clients  
+> Fehleranalyse & PC-Hardware-Wartung
 
 ---
 
 ## 🔧 Skills (im Aufbau)
-- Client-Systeme: Windows 10/11  
-- Linux- und Unix-Systeme  
-- Netzwerke: Cisco Packet Tracer, VLAN, Subnetting  
-- Server & Virtualisierung: Windows Server, Hyper-V, VirtualBox  
-- Cloud: Microsoft Azure (AZ-104 Vorbereitung)  
-- SQL-Datenbanken  
-- PowerShell-, Bash- und Python-Skripte
+> • Windows 10/11  
+> • Linux & Unix  
+> • Netzwerke (VLAN, Subnetting, Cisco PT)  
+> • Windows Server, Hyper-V, VirtualBox  
+> • Cloud: Azure (AZ-104)  
+> • SQL, PowerShell, Bash, Python
