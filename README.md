@@ -12,7 +12,10 @@
 - **LF03** – Netzwerke & Clients  
 - **LF04** – IT-Sicherheit / Grundschutz  
 - **LF05** – Software & Datenverwaltung
-- **LF06-LF09 ------> LOADING**
+- **LF06 ------> LOADING**
+- **LF07** – Cyber-physische Systeme ergänzen
+- **LF08** – Daten systemübergreifend bereitstellen
+- **LF09 ------> LOADING**
 
 👉 Jede Lernfeld-Dokumentation + Übungen → in einem eigenen Repository.  
 
