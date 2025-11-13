@@ -31,20 +31,20 @@
 > Fehleranalyse & PC-Hardware-Wartung
 
 ---
+---
+---
 
 
-
-
-## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) noch nicht begonnen)
+## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) geplant bis 09/2026)
 
 ### Systemadministration
 - 🟡 Windows 10/11 Administration  
 - 🟡 Grundlagen Windows Server (AD, DNS, DHCP, GPO)  
-- 🟢 Linux Administration (Systemd, Dienste, Benutzer, Rechte)
+- 🟡 Linux Administration (Systemd, Dienste, Benutzer, Rechte)
 
 ### Netzwerke
 - 🟢 Subnetting, VLAN, DHCP, DNS  
-- 🟡 Routing-Basics, Firewall-Grundlagen  
+- 🟢 Routing-Basics, Firewall-Grundlagen  
 - 🟡 Netzwerk-Monitoring & Troubleshooting
 
 ### Virtualisierung
@@ -71,7 +71,7 @@
 
 ### Softwareentwicklung
 - 🟡 C#/.NET Grundlagen  
-- ( ) OOP & kleine Tools / Automatisierung  
+- ( ) OOP & kleine Tools 
 
 ### Tools & Workflows
 - 🟢 Git & GitHub (Branches, SSH, Merges)  
