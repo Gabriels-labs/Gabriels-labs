@@ -1,10 +1,33 @@
 # 👋 Willkommen bei gabriels-labs
 
 ## Über mich
-- Fachinformatiker für Systemintegration (Umschulung, 06/2025–06/2027, GFN GmbH) mit Fokus: Netzwerke, Server, Virtualisierung, Cloud (Azure)
-- Junior DevOps-Engineer (Online-Kurse, 10/2025–05/2026, TeachMeSkills – Online-Bildungsanbieter) mit Fokus: Linux, Containerisierung, Cloud (GCP, AWS)
-- Interesse: IT-Infrastruktur, Systemintegration, Automatisierung, Cloud & DevOps, Softwareentwicklung (C#/.NET)
-- Arbeitserfahrung: Installation und Einrichtung von Windows-Systemen und Peripheriegeräten. Fehleranalyse und Wartung von PC-Hardware
+# 🎓 Bildung  
+**Fachinformatiker für Systemintegration** (Umschulung, 06/2025–06/2027, GFN GmbH)  
+mit Fokus: Netzwerke, Server, Virtualisierung, Cloud (Azure)  
+
+🔗 **Lernfelder-Repository:**  
+[➡️ Zum Repository „Lernfelder FiSi“](./Lernfelder)
+
+---
+
+# 🚀 Weiterbildung  
+**Junior DevOps-Engineer** (Online-Kurse, 10/2025–05/2026, TeachMeSkills – Online-Bildungsanbieter)  
+mit Fokus: Linux, Containerisierung, Cloud (GCP, AWS)
+
+---
+
+# 💡 Interesse  
+IT-Infrastruktur, Systemintegration, Automatisierung, Cloud & DevOps, Softwareentwicklung (C#/.NET)
+
+🔗 **DevOps-Repository:**  
+[➡️ Zum Repository „DevOps“](./DevOps)
+
+---
+
+# 🛠️ Arbeitserfahrung  
+Installation und Einrichtung von Windows-Systemen und Peripheriegeräten.  
+Fehleranalyse und Wartung von PC-Hardware.
+
 
 ## 📚 Lernfelder (Umschulung)
 - **LF01** – Rolle im Betrieb  
