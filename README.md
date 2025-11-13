@@ -5,7 +5,7 @@
 ## 🎓 Bildung  
 > **Fachinformatiker für Systemintegration**  
 > Umschulung (06/2025–06/2027) · GFN GmbH  
-> **Fokus:** Netzwerke · Server · Virtualisierung · MS Azure  
+> **Fokus:** Windows · Netzwerke · Server · Virtualisierung · MS Azure  
 >
 > 🔗 [Lernfelder FiSi ansehen](https://github.com/Gabriels-labs/Lernfelder)
 
