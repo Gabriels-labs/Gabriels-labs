@@ -32,43 +32,44 @@
 
 ---
 
-## 🔧 Skills (Stand & Aufbau)
+✅ ## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) noch nicht begonnen)
 
-> **Systemadministration**
-> • **Windows 10/11 Administration**  
-> • **Grundlagen Windows Server (AD, DNS, DHCP, GPO)**  
-> • Linux Administration (Systemd, Dienste, Benutzer, Rechte)  
->
-> **Netzwerke**
-> • **Subnetting, VLAN, DHCP, DNS**  
-> • Netzwerktopologien, Routing-Basics, Firewall-Grundlagen  
-> • Monitoring & Troubleshooting  
->
-> **Virtualisierung**
-> • **Hyper-V & VirtualBox**  
-> • KVM & Virtualisierungskonzepte (Snapshots, Storage)  
->
-> **Cloud & DevOps**
-> • **Azure (AZ-104 Vorbereitung)**  
-> • Docker & Containerisierung  
-> • AWS & GCP Grundlagen  
-> • CI/CD-Konzepte & Pipelines  
->
-> **Automation & Scripting**
-> • **PowerShell-Skripte**  
-> • Bash  
-> • Python für Automatisierung  
->
-> **Daten & Services**
-> • **PostgreSQL (Abfragen, Tabellen, Backups)**  
-> • Webserver (Nginx/Apache)  
-> • SSL/TLS & Zertifikatsverwaltung  
->
-> **Softwareentwicklung**
-> • **C#/.NET Grundlagen**  
-> • Objektorientierung, kleine Automatisierungs-Tools  
->
-> **Tools & Workflows**
-> • **Git & GitHub (Branches, SSH, Merges)**  
-> • Infrastruktur-Dokumentation & Best Practices  
+### Systemadministration
+- 🟡 Windows 10/11 Administration  
+- 🟡 Grundlagen Windows Server (AD, DNS, DHCP, GPO)  
+- 🟢 Linux Administration (Systemd, Dienste, Benutzer, Rechte)
 
+### Netzwerke
+- 🟢 Subnetting, VLAN, DHCP, DNS  
+- 🟡 Routing-Basics, Firewall-Grundlagen  
+- 🟡 Netzwerk-Monitoring & Troubleshooting
+
+### Virtualisierung
+- 🟡 Hyper-V  
+- 🟢 VirtualBox  
+- ( ) KVM & Virtualisierungskonzepte (Snapshots, Storage)
+
+### Cloud & DevOps
+- ( ) Azure (AZ-104 Vorbereitung)  
+- ( ) Docker & Containerisierung  
+- ( ) AWS Grundlagen  
+- ( ) GCP Grundlagen  
+- ( ) CI/CD-Konzepte & Pipelines
+
+### Automation & Scripting
+- ( ) PowerShell-Skripte  
+- 🟡 Bash  
+- ( ) Python für Automatisierung  
+
+### Daten & Services
+- ( ) PostgreSQL (Abfragen, Tabellen, Backups)  
+- ( ) Webserver (Nginx/Apache)  
+- ( ) SSL/TLS & Zertifikatsverwaltung  
+
+### Softwareentwicklung
+- 🟡 C#/.NET Grundlagen  
+- ( ) OOP & kleine Tools / Automatisierung  
+
+### Tools & Workflows
+- 🟢 Git & GitHub (Branches, SSH, Merges)  
+- 🟡 Infrastruktur-Dokumentation & Best Practices  
