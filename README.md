@@ -32,7 +32,7 @@
 
 ---
 
-✅ ## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) noch nicht begonnen)
+## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) noch nicht begonnen)
 
 ### Systemadministration
 - 🟡 Windows 10/11 Administration  
