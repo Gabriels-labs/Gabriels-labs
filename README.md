@@ -1,7 +1,7 @@
 # 👋 Willkommen bei gabriels-labs
 
 ## Über mich
-# 🎓 Bildung  
+### 🎓 Bildung  
 **Fachinformatiker für Systemintegration** (Umschulung, 06/2025–06/2027, GFN GmbH)  
 mit Fokus: Netzwerke, Server, Virtualisierung, Cloud (Azure)  
 
@@ -10,13 +10,13 @@ mit Fokus: Netzwerke, Server, Virtualisierung, Cloud (Azure)
 
 ---
 
-# 🚀 Weiterbildung  
+### 🚀 Weiterbildung  
 **Junior DevOps-Engineer** (Online-Kurse, 10/2025–05/2026, TeachMeSkills – Online-Bildungsanbieter)  
 mit Fokus: Linux, Containerisierung, Cloud (GCP, AWS)
 
 ---
 
-# 💡 Interesse  
+### 💡 Interesse  
 IT-Infrastruktur, Systemintegration, Automatisierung, Cloud & DevOps, Softwareentwicklung (C#/.NET)
 
 🔗 **DevOps-Repository:**  
@@ -24,7 +24,7 @@ IT-Infrastruktur, Systemintegration, Automatisierung, Cloud & DevOps, Softwareen
 
 ---
 
-# 🛠️ Arbeitserfahrung  
+### 🛠️ Arbeitserfahrung  
 Installation und Einrichtung von Windows-Systemen und Peripheriegeräten.  
 Fehleranalyse und Wartung von PC-Hardware.
 
