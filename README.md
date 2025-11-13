@@ -5,7 +5,7 @@
 ## 🎓 Bildung  
 > **Fachinformatiker für Systemintegration**  
 > Umschulung (06/2025–06/2027) · GFN GmbH  
-> **Fokus:** Netzwerke · Server · Virtualisierung · Azure  
+> **Fokus:** Netzwerke · Server · Virtualisierung · MS Azure  
 >
 > 🔗 [Lernfelder FiSi ansehen](./Lernfelder)
 
@@ -14,7 +14,7 @@
 ## 🚀 Weiterbildung  
 > **Junior DevOps-Engineer**  
 > Online-Kurse (10/2025–05/2026) · TeachMeSkills  
-> **Fokus:** Linux · Containerisierung · GCP · AWS  
+> **Fokus:** Linux · Containerisierung · CI/CD · GCP/AWS  
 >
 > 🔗 [DevOps-Repository ansehen](./DevOps)
 
