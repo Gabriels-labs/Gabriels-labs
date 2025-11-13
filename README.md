@@ -34,7 +34,7 @@
 ---
 
 
-## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) geplant bis 09/2026)
+## 🔧 Skills (🟢 Stand · 🟡 Aufbau · ( ) geplant bis 09/2026)
 
 ### Systemadministration
 - 🟡 Windows 10/11 Administration  
