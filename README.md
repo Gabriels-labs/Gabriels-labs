@@ -7,7 +7,7 @@
 > Umschulung (06/2025–06/2027) · GFN GmbH  
 > **Fokus:** Netzwerke · Server · Virtualisierung · MS Azure  
 >
-> 🔗 [Lernfelder FiSi ansehen](/Lernfelder)
+> 🔗 [Lernfelder FiSi ansehen](/Gabriel-Labs/Lernfelder)
 
 ---
 
@@ -16,7 +16,7 @@
 > Online-Kurse (10/2025–05/2026) · TeachMeSkills  
 > **Fokus:** Linux · Containerisierung · CI/CD · GCP/AWS  
 >
-> 🔗 [DevOps-Repository ansehen](/DevOps)
+> 🔗 [DevOps-Repository ansehen](/Gabriel-Labs/DevOps)
 
 ---
 
