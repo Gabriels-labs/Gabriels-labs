@@ -32,7 +32,6 @@
 
 ---
 ---
----
 
 
 ## 🔧 Aktuelle Skills (🟢 Stand · 🟡 Aufbau · ( ) geplant bis 09/2026)
