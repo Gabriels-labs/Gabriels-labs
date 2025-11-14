@@ -61,16 +61,16 @@
 ### Automation & Scripting
 - ( ) PowerShell-Skripte  
 - 🟡 Bash  
-- ( ) Python für Automatisierung  
+- (🟡) Python für Automatisierung  
 
 ### Daten & Services
-- ( ) PostgreSQL (Abfragen, Tabellen, Backups)  
+- (🟡) PostgreSQL (Abfragen, Tabellen, Backups)  
 - ( ) Webserver (Nginx/Apache)  
 - ( ) SSL/TLS & Zertifikatsverwaltung  
 
 ### Softwareentwicklung
 - 🟡 C#/.NET Grundlagen  
-- ( ) OOP & kleine Tools 
+- (🟡) OOP & kleine Tools 
 
 ### Tools & Workflows
 - 🟢 Git & GitHub (Branches, SSH, Merges)  
