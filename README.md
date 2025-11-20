@@ -73,5 +73,5 @@
 - 🟡 OOP & kleine Tools 
 
 ### Tools & Workflows
-- 🟢 Git & GitHub (Branches, SSH, Merges)  
+- 🟡 Git & GitHub (Branches, SSH, Merges)  
 - 🟡 Infrastruktur-Dokumentation & Best Practices  
