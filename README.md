@@ -3,7 +3,7 @@
 ---
 
 ## 🎓 Bildung  
-> **Fachinformatiker für Systemintegration**  
+> **Fachinformatiker für Systemintegration (IHK)**  
 > Umschulung (06/2025–06/2027) · GFN GmbH  
 > **Fokus:** Windows · Netzwerke · Server · Virtualisierung · MS Azure  
 >
