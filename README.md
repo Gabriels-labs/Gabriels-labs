@@ -34,44 +34,47 @@
 ---
 
 
-## 🔧 Skills (🟢 Stand · 🟡 Aufbau · ( ) geplant bis 09/2026)
+## 🔧 Tech Stack (im Aufbau)
 
-### Systemadministration
-- 🟡 Windows 10/11 Administration  
-- 🟡 Grundlagen Windows Server (AD, DNS, DHCP, GPO)  
-- 🟡 Linux Administration (Systemd, Dienste, Benutzer, Rechte)
+### 🖥️ Systemadministration
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Netzwerke
-- 🟢 Subnetting, VLAN, DHCP, DNS  
-- 🟢 Routing-Basics, Firewall-Grundlagen  
-- 🟡 Netzwerk-Monitoring & Troubleshooting
+### 🌐 Netzwerke
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Virtualisierung
-- 🟡 Hyper-V  
-- 🟢 VirtualBox  
-- ( ) KVM & Virtualisierungskonzepte (Snapshots, Storage)
+### 📦 Virtualisierung
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### Cloud & DevOps
-- ( ) Azure (AZ-104 Vorbereitung)  
-- ( ) Docker & Containerisierung  
-- ( ) AWS Grundlagen  
-- ( ) GCP Grundlagen  
-- ( ) CI/CD-Konzepte & Pipelines
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Automation & Scripting
-- ( ) PowerShell-Skripte  
-- 🟡 Bash  
-- 🟡 Python für Automatisierung  
+### ⚙️ Automation & Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Daten & Services
-- 🟡 PostgreSQL (Abfragen, Tabellen, Backups)  
-- ( ) Webserver (Nginx/Apache)  
-- ( ) SSL/TLS & Zertifikatsverwaltung  
+### 🗄️ Daten & Services
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL/TLS-3C3C3D?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-### Softwareentwicklung
-- 🟡 C#/.NET Grundlagen  
-- 🟡 OOP & kleine Tools 
+### 💻 Softwareentwicklung
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools & Workflows
-- 🟡 Git & GitHub (Branches, SSH, Merges)  
-- 🟡 Infrastruktur-Dokumentation & Best Practices  
+### 🔁 Workflows
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
